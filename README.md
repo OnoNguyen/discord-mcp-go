@@ -37,7 +37,7 @@ A Go-based [MCP](https://modelcontextprotocol.io/) server that exposes Discord o
 ### Build from source
 
 ```bash
-git clone https://github.com/houseofdoge/discord-mcp-go.git
+git clone https://github.com/OnoNguyen/discord-mcp-go.git
 cd discord-mcp-go
 go build -o discord-mcp-go .
 ```
